@@ -1,2 +1,3 @@
 # Data-Management-project
-Il caso GameStop. Un approccio data-driven
+Il caso GameStop. 
+Un approccio data-driven
