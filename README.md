@@ -1,4 +1,4 @@
-# Data-Management-project \
+# Data-Management-project 
 ## Il caso GameStop. 
 ### Presa dati di Reddit 
 Eseguire il file: redditAPI.ipynb fornendo i seguenti parametri: \
